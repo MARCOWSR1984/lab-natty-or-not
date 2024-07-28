@@ -15,6 +15,6 @@ Utilizei o [Chat.GPT](https://chatgpt.com/) para criação de um texto sobre IA'
 
 https://github.com/user-attachments/assets/0365f75e-44ca-4198-81a5-08dd4b1f7e0a
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 É inegável que as IA's já são parte de nosso cotidiano, essa já é uma realidade. Por isso, devemos conhecer essa tecnologia e utilizá-la em nosso benefício
 
